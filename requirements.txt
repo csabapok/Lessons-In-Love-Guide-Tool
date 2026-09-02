@@ -1,2 +1,2 @@
-tkinter
-webbrowser
+# No third-party runtime dependencies. Tkinter and webbrowser are provided by
+# Python's standard library (some Linux distributions package Tk separately).

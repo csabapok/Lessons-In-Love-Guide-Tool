@@ -1,2 +1,3 @@
-pip install pyinstaller
-pyinstaller --onefile -w main.py
+@echo off
+python -m pip install pyinstaller
+python -m PyInstaller --clean --noconfirm LessonsInLoveGuide-v1.5.spec

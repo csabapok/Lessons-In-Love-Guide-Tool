@@ -22,7 +22,7 @@ Download the [latest release](https://github.com/largestack/Lessons-In-Love-Guid
 * **Event group**: Browse events by character and main path.
 * **Event**: The list of events for the selected event group.
 * **Event prerequisites**: The requirements for the event to trigger.
-* **Event raw details**: Some extra notes about the event.
+* **Condition details**: Readable event conditions without raw trigger code.
 
 # Event details
 
@@ -994,5 +994,4 @@ Characters:
 | [Two Months of Nothing](./events/yumislumber1.md) | Part of event chain [Approximation](./events/slumberreset2.md) |  |
 | [Loggerhead](./events/yumislumber2.md) | Part of event chain [Two Months of Nothing](./events/yumislumber1.md) |  |
 | [A Day in the Life](./events/yumislumber3.md) | Part of event chain [Loggerhead](./events/yumislumber2.md) |  |
-
 
