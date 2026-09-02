@@ -8,7 +8,7 @@ Also see [the guide tool website here](http://largestack.github.io/Lessons-In-Lo
 
 ## Game version supported
 The guide reads event definitions directly from the installed game. This build
-supports current Ren'Py save formats used by Lessons in Love 0.58 and remains
+supports current Ren'Py save formats used by Lessons in Love 0.61 and remains
 compatible with older primitive save values.
 
 ## Installation - Windows
